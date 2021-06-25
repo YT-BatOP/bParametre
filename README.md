@@ -18,7 +18,7 @@ git clone https://github.com/YT-BatOP/bParametre [esx]/bParametre
 ```
 
 ### Manuellement
-- Téléchargement https://github.com/YT-BatOP/bParametre/archive/master.zip
+- Téléchargement https://github.com/YT-BatOP/bParametre/archive/refs/heads/main.zip
 - Mettez le dans le dossier `[esx]`
 
 ### Informations 
